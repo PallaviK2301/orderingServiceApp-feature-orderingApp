@@ -1,0 +1,8 @@
+com\orderingApp\orderingService\service\ProductService.class
+com\orderingApp\orderingService\service\OrderService.class
+com\orderingApp\orderingService\model\Product.class
+com\orderingApp\orderingService\OrderingServiceApplication.class
+com\orderingApp\orderingService\controller\ProductController.class
+com\orderingApp\orderingService\service\AuthenticationService.class
+com\orderingApp\orderingService\config\RestTemplateConfig.class
+com\orderingApp\orderingService\repository\ProductRepository.class
